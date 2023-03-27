@@ -1,0 +1,14 @@
+body{background-image:C:\Users\tks\Desktop\beautiful-wallpaper.jpg;}
+h4{ text-align:center;}
+form{text-align:center;border:4px solid orange;margin:100px; }
+input{ width:300px;}
+button{width: 120px; background-color:orange;border: none;
+color: black;
+padding: 10px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);}
+.seprate{bdisplay: inline-block; }
+.label_time{padding-left: 10px;}
